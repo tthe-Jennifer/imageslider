@@ -1,0 +1,24 @@
+.App {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+  color: rgba(229, 212, 212, 0.911);
+  margin-top: 5vh;
+  font-family: "Montserrat", "open-sans";
+}
+html {
+  /* background-color: #61dafb; */
+  background-color: #282c34;
+}
+.App-header {
+  background-color: #282c34;
+}
+
+.App-link {
+  color: #61dafb;
+}
